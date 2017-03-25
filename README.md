@@ -1,3 +1,3 @@
 # SimpleRestaurant
 
-Simple Restaurant Application
+Simple Restaurant Console Application
